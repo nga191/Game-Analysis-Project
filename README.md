@@ -46,6 +46,13 @@ Báo cáo cung cấp cái nhìn tổng quan về **doanh thu, hành vi người 
 - Bước tiếp theo: predictive analytics, phân tích sâu theo khu vực, dữ liệu retention.
 
 ---
+## Công cụ sử dụng
+- **Tableau**: trực quan hóa dữ liệu.
+- **SQL**: xử lý và tính toán KPI
+- **Excel/CSV**: tiền xử lý dữ liệu.  
+- **GitHub**: lưu trữ & quản lý phiên bản.
+
+---
 
 ## Demo Dashboard
 <img width="1558" height="878" alt="image" src="https://github.com/user-attachments/assets/5afd2ad8-f2e9-4432-bb59-6e7b53238bb7" />
